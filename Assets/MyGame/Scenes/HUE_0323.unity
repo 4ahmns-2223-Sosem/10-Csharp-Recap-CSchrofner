@@ -221,7 +221,7 @@ GameObject:
   - component: {fileID: 211794202}
   - component: {fileID: 211794206}
   m_Layer: 5
-  m_Name: Image (9)
+  m_Name: Karte3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -396,7 +396,7 @@ GameObject:
   - component: {fileID: 752648765}
   - component: {fileID: 752648766}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Karte1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -998,7 +998,7 @@ GameObject:
   - component: {fileID: 1167564771}
   - component: {fileID: 1167564775}
   m_Layer: 5
-  m_Name: Image (8)
+  m_Name: Karte2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1588,7 +1588,7 @@ GameObject:
   - component: {fileID: 1668567915}
   - component: {fileID: 1668567919}
   m_Layer: 5
-  m_Name: Image (10)
+  m_Name: Karte4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1763,7 +1763,7 @@ GameObject:
   - component: {fileID: 2011641966}
   - component: {fileID: 2011641970}
   m_Layer: 5
-  m_Name: Image (11)
+  m_Name: Karte5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1914,7 +1914,7 @@ Animator:
   m_GameObject: {fileID: 2011641964}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f566fae2e27362c4e89932cc7bd43041, type: 2}
+  m_Controller: {fileID: 9100000, guid: df736c3ef38c95145b543bd671f6fccd, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
