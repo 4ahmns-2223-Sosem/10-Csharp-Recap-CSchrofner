@@ -6,12 +6,13 @@ BLAH!
 ### Projektbeschreibung: 
 In diesem Projekt habe ich viele im Unterricht gelernten Sachen angewendet und habe so ein kleines Minispiel gemacht. In dem Minispiel kann man Karten aufdecken woraufhin einem dann 5 rein zufällige Karten gezeigt werden.
 
+
 ### Entwicklungsplattform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
-### Zielplattform: 
-WebGL Referenzauflösung (960x600) 
-https://3ahmns2122mtin.github.io/10CSchrofner-UE02-shootingisland/
+
+### Zielplattform:
+
 
 ### Visuelle Einblicke in das Projekt: 
 ![Screenshot(1)](https://user-images.githubusercontent.com/91070191/226953595-9ed8aabc-9177-4860-8f87-5cb17a9ab9d7.png)
