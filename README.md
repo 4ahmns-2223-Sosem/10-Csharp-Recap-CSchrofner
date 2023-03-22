@@ -9,6 +9,9 @@ Im Rahmen dieses Projekts konnte ich mein im Unterricht erworbenes Wissen über 
 ### Entwicklungsplattform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
+### Zielplattform:
+WebGL Referenzauflösung (960x600) https://4ahmns-2223-sosem.github.io/10-Csharp-Recap-CSchrofner/
+
 
 ### Visuelle Einblicke in das Projekt: 
 VIDEOEINBLICK: 
