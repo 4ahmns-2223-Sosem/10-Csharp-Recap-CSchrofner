@@ -10,9 +10,6 @@ In diesem Projekt habe ich viele im Unterricht gelernten Sachen angewendet und h
 Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 
-### Zielplattform:
-
-
 ### Visuelle Einblicke in das Projekt: 
 VIDEOEINBLICK: 
 https://user-images.githubusercontent.com/91070191/226978641-f1e84b7b-ee3d-449f-8b7e-1f4e290d2981.mp4
