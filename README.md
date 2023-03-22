@@ -1,7 +1,6 @@
 # 10-Csharp-Recap-CSchrofner
 BLAH!
 
-# UE01 : CSharp Recap
 
 ### Projektbeschreibung: 
 In diesem Projekt habe ich viele im Unterricht gelernten Sachen angewendet und habe so ein kleines Minispiel gemacht. In dem Minispiel kann man Karten aufdecken woraufhin einem dann 5 rein zufällige Karten gezeigt werden.
