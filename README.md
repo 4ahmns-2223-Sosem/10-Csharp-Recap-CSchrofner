@@ -3,7 +3,7 @@ BLAH!
 
 
 ### Projektbeschreibung: 
-In diesem Projekt habe ich viele im Unterricht gelernten Sachen angewendet und habe so ein kleines Minispiel gemacht. In dem Minispiel kann man Karten aufdecken woraufhin einem dann 5 rein zufällige Karten gezeigt werden.
+Im Rahmen dieses Projekts konnte ich zahlreiche Konzepte aus dem Unterricht praktisch anwenden und ein kleines Minispiel entwickeln. Das Spiel ermöglicht es dem Spieler, Karten aufzudecken und dabei fünf zufällige Karten zu enthüllen.
 
 
 ### Entwicklungsplattform: 
