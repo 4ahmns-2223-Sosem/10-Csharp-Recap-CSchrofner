@@ -36,15 +36,5 @@ Font: https://fonts.google.com/specimen/Montserrat
 
 Erstellung von Scenen mit emptys und Scripts zu jeweils Variablen Methoden Arrays ForLoops If/Else
 
-###
-###
-###
-###
-###
-###
-###
-
-
-
 
 Copyright by CSchrofner :)
