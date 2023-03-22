@@ -32,6 +32,10 @@ Karten aufdecken (Sound): https://www.youtube.com/watch?v=_UoJhHKuoh0
 
 Font: https://fonts.google.com/specimen/Montserrat
 
+### Anforderungen:
+
+Erstellung von Scenen mit emptys und Scripts zu jeweils Variablen Methoden Arrays ForLoops If/Else
+
 
 
 
