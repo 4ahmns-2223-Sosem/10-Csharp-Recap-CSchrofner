@@ -15,12 +15,9 @@ VIDEOEINBLICK:
 https://user-images.githubusercontent.com/91070191/227006064-3ded63b8-8312-4445-9b3e-c3630d675fc5.mp4
 
 
-![Screenshot(1)](https://user-images.githubusercontent.com/91070191/226953595-9ed8aabc-9177-4860-8f87-5cb17a9ab9d7.png)
-![Screenshot(2)](https://user-images.githubusercontent.com/91070191/226953669-29aded26-6a5b-4799-bd2e-cfea9496cc94.png)
-![Screenshot(3)](https://user-images.githubusercontent.com/91070191/226953681-b7300746-c87e-4204-9166-0ee264732354.png)
-
-
-
+![Screenshot(1)](https://user-images.githubusercontent.com/91070191/227007128-adbc5c58-6460-4052-8203-a7edb4ef901f.png)
+![Screenshot(2)](https://user-images.githubusercontent.com/91070191/227007136-6985f611-afc4-4aea-ac40-9bd7d3f5b8e1.png)
+![Screenshot(3)](https://user-images.githubusercontent.com/91070191/227007141-f50d4c92-c02c-412b-b499-2c9c98bef217.png)
 
 
 ### Drittmaterial: 
