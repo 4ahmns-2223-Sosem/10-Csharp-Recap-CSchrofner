@@ -3,7 +3,7 @@ BLAH!
 
 
 ### Projektbeschreibung: 
-Im Rahmen dieses Projekts konnte ich zahlreiche Konzepte aus dem Unterricht praktisch anwenden und ein kleines Minispiel entwickeln. Das Spiel ermöglicht es dem Spieler, Karten aufzudecken und dabei fünf zufällige Karten zu enthüllen.
+m Rahmen dieses Projekts konnte ich mein im Unterricht erworbenes Wissen über Variablen, Methoden, Arrays, For-Loops und If/Else-Statements anwenden, um ein kleines, aber ansprechendes Minispiel zu entwickeln. Das Spiel ermöglicht es dem Nutzer, Karten aufzudecken und dabei fünf zufällige Karten zu enthüllen.
 
 
 ### Entwicklungsplattform: 
