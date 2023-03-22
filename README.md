@@ -23,15 +23,16 @@ Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Drittmaterial: 
 
-Font: https://fonts.google.com/specimen/Montserrat
-
 Hintergrundbild (Bearbeitet): https://www.freepik.com/premium-vector/poker-table-background-green-color_7106321.htm
+
+Spielkarten Textur: https://pixabay.com/vectors/atlasnye-deck-playing-cards-game-884206/
 
 Hintergrundmusik: https://www.youtube.com/watch?v=kTuunrHUE98
 
 Karten aufdecken (Sound): https://www.youtube.com/watch?v=_UoJhHKuoh0
 
-Spielkarten Textur: https://pixabay.com/vectors/atlasnye-deck-playing-cards-game-884206/
+Font: https://fonts.google.com/specimen/Montserrat
+
 
 
 
